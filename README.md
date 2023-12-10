@@ -1,2 +1,4 @@
 # Desafio10
- Escolher uma API pública, criar uma coleção Postman​ e hospedar ela no seu github
+ Escolher uma API pública
+ Criar uma coleção Postman​ 
+ Hospedar ela no github
