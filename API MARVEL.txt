@@ -1,0 +1,9 @@
+Swagger --- http://gateway.marvel.com/docs
+
+JSON
+
+A API possui apenas o endpoint: - GET
+
+Para acessar o endpoint - http://gateway.marvel.com/docs/public
+
+
